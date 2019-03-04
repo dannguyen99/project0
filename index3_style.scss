@@ -1,5 +1,28 @@
-$color:red;
+$color:darkblue;
 .paragraph_1
 {
     color: $color;
+}
+.paragraph_2
+{
+    color: $color;
+}
+div
+{
+  width: 50%;
+  height: 300px;
+  color: green;
+  background-color: cornflowerblue;
+}
+@media(min-width:500px)
+{
+  body{
+    background-color: lightcoral;
+  }
+}
+@media(max-width:499px)
+{
+  body{
+    background-color: yellowgreen;
+  }
 }
