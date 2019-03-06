@@ -15,6 +15,9 @@ th{
 td{
     text-align: center;
 }
+ol a{
+    color: darkgoldenrod;
+}
 a::before{
     content: "\21d2";
     font-weight: bold;

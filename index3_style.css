@@ -6,15 +6,14 @@
   color: darkblue;
 }
 
-@media (min-width: 500px) {
-  body {
-    background-color: lightgray;
-  }
+#okok {
+  font-family: "Times New Roman", Times, serif;
 }
-@media (max-width: 499px) {
-  body {
-    background-color: yellowgreen;
-  }
+#okok p {
+  color: darkmagenta;
+}
+#okok h2 {
+  color: darkkhaki;
 }
 
 /*# sourceMappingURL=index3_style.css.map */
