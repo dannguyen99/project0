@@ -6,16 +6,9 @@
   color: darkblue;
 }
 
-div {
-  width: 50%;
-  height: 300px;
-  color: green;
-  background-color: cornflowerblue;
-}
-
 @media (min-width: 500px) {
   body {
-    background-color: lightcoral;
+    background-color: lightgray;
   }
 }
 @media (max-width: 499px) {
